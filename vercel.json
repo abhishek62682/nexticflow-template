@@ -1,0 +1,4 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/nexticflow-template.webflow.io/home.html" }],
+  "cleanUrls": false
+}
